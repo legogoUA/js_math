@@ -1,2 +1,2 @@
 # js_math
-Math operations with solutions
+Math operations with examples
